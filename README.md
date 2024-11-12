@@ -1,3 +1,4 @@
+# JKUAT KAPS HACKATHON 2024
 # Boresha-Footprint
 An App that empowers you to calculate your carbon footprint, visualize your data, and explore sustainable solutions.
 # What is a Carbon Footprint?
